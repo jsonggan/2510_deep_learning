@@ -1,2 +1,4 @@
 # 2510_deep_learning
-2510 Deep Learning Project
+Project team 13.
+
+Please refer to Deep Learning Group 13 Report.pdf for the documentation, results, instructions, and discussion.
